@@ -20,6 +20,12 @@ Original extreme occlusion paper:
 * Robustness of Object Recognition under Extreme Occlusion in Humans and Computational Models
 * https://arxiv.org/pdf/1905.04598.pdf
 
+Building models that function similar to the brain:
+* CORnet: Modeling the Neural Mechanisms of Core Object Recognition
+* https://www.biorxiv.org/content/biorxiv/early/2018/09/04/408385.full.pdf
+
 Importance of recurrence in occluded object recognition:
 * Beyond core object recognition: Recurrent processes account for object recognition under occlusion.
 * https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007001
+
+
